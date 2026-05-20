@@ -3,15 +3,27 @@
   "name": "Casa Paca - Carta de Vinos",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
       "type": "image/png",
       "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "150x150",
       "purpose": "any"
     }
   ],
   "start_url": ".",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#4A0E17",
+  "theme_color": "#FAF8F5",
   "background_color": "#FAF8F5"
 }
